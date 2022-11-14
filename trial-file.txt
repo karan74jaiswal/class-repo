@@ -8,3 +8,7 @@ calcAge(birthYear){
 return 2022-birthYear;
 }
 calcAge(2002);
+
+fullName(name){
+return name;
+};
